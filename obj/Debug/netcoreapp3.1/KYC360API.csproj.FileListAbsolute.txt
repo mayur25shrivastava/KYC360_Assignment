@@ -1,0 +1,6 @@
+D:\kyc assignment2\KYC360API\obj\Debug\netcoreapp3.1\KYC360API.csproj.AssemblyReference.cache
+D:\kyc assignment2\KYC360API\obj\Debug\netcoreapp3.1\KYC360API.GeneratedMSBuildEditorConfig.editorconfig
+D:\kyc assignment2\KYC360API\obj\Debug\netcoreapp3.1\KYC360API.AssemblyInfoInputs.cache
+D:\kyc assignment2\KYC360API\obj\Debug\netcoreapp3.1\KYC360API.AssemblyInfo.cs
+D:\kyc assignment2\KYC360API\obj\Debug\netcoreapp3.1\KYC360API.csproj.CoreCompileInputs.cache
+D:\kyc assignment2\KYC360API\obj\Debug\netcoreapp3.1\KYC360API.MvcApplicationPartsAssemblyInfo.cache
